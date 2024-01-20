@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning different skills, architectures, libraries, and researches in data science and ML.
 - 📫 How to reach me: (last name)(first name)@gmail.com
 - 😄 Pronouns: He/ him/ his
-- ⚡ Fun fact: I have worked in astrophysics, cold atoms, quantum optics, condensed matter physics. Believe or not?
+- ⚡ Fun fact: I have worked in astrophysics, AMO physics, condensed matter physics. Believe it or not?
 
 <!---
 kenkwma/kenkwma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
