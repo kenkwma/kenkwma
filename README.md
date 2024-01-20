@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning different skills, libraries, and researches in ML
 - 📫 How to reach me: (last name)(first name)@gmail.com
 - 😄 Pronouns: He/ him/ his
-- ⚡ Fun fact: I was trained to be a theoretical condensed matter physicist (using mostly paper and pen). but my recent interests 
+- ⚡ Fun fact: I was trained to be a theoretical condensed matter physicist (using mostly paper and pen), but my current interests are more in ML now
 
 <!---
 kenkwma/kenkwma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
