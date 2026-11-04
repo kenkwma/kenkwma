@@ -1,5 +1,5 @@
-- 👋 Hello! I am Ken Ma. I am the founder of Ma Academy. It provides premium physics and math tutoring at all levels.
-- 😎 I worked in data science, ML, and AI engineering. I still work on that but mainly focus on apps and frontend development.
+- 👋 Hello! I am Ken Ma. I am the founder of Dr. Ken Ma Academy. It provides premium physics and math tutoring at all levels.
+- 😎 I worked in data science, ML, and AI engineering. I run my own projects on soccer gambling strategies and real estate investment.
 - 👀 I’m interested in all kinds of interesting things on the world or in the universe!
 - 📫 How to reach me: (last name)(first name)@gmail.com
 - 😄 Pronouns: He/ him/ his
