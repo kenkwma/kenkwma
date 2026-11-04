@@ -3,7 +3,7 @@
 - 👀 I’m interested in all kinds of interesting things in this universe!
 - 📫 How to reach me: (last name)(first name)@gmail.com
 - 😄 Pronouns: He/ him/ his
-- ⚡ Fun fact: I worked in astrophysics, quantum optics, cold atoms, and condensed matter physics. Now, in data science and my own business. Believe it or not?
+- ⚡ Fun fact: I worked in numerical astrophysics (2010-2011), quantum optics (2015-), cold atoms (2011-2013), and condensed matter physics (2016-). Now, I run my own business.
 
 <!---
 kenkwma/kenkwma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
